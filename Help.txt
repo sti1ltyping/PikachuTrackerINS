@@ -1,66 +1,65 @@
 -----------------------------------------------CREDITS----------------------------------------------------
 
-This Application is brought to you by: Pikachu's Stats dev team
-Official discord server: https://discord.gg/B3DQgwUgyT
+This application is brought to you by the Pikachu's Stats Development Team.
+Join our official Discord server: https://discord.gg/B3DQgwUgyT
 
 
 ---------------------------------------PIKACHU'S TRACKER SUPPORT-------------------------------------------
 
 1. How to setup client logs
 
-1.1 Find your client's logs directory.
-1.2 Copy the exact path of this directory.
-1.3 Launch Pikachu's Tracker application and click on "Client logs"
-1.4 Paste the path of your client's logs directory in the popup window and click save.
-1.5 If the color of the button changes to magenta it means Pikachu's Tracker has successfully found the directory and is ready to go.
-1.6 If you are facing problem in finding client's logs file don't hesitat to contact us.
+1.1 Locate your client's logs directory.
+1.2 Copy the full path of this directory.
+1.3 Launch Pikachu's Tracker and click on the "Client logs" button.
+1.4 Paste the directory path into the popup window and click "Save."
+1.5 If the button color changes to magenta, Pikachu's Tracker has successfully detected the directory and is ready to use.
+1.6 If you encounter any issues locating the client's logs, feel free to contact our support team.
 
 2. How to start tracking players
 
-2.1 Setup client logs.
-2.2 Click on the start button.
-2.3 Open your chat box in game and press space followed by tab (Pressing it together won't work you need to press the space first followed by tab)
-2.4 To refresh the table press space followed by tab
+2.1 Ensure client logs are set up.
+2.2 Click the "Start" button.
+2.3 In-game, open the chat box and press the spacebar followed by the Tab key (press them sequentially, not simultaneously).
+2.4 To refresh the table, repeat the spacebar followed by the Tab key sequence.
 
-3. Settings
+3. Accessing Settings
 
-3.1 Click on the settings button.
-3.2 There you can change the theme and transperancy
+3.1 Click the "Settings" button.
+3.2 You can adjust the theme and transparency settings here.
 
 
 -------------------------------------------------CONTROL----------------------------------------------------
 
 1. WLR & FKDR Thresholds
 
-1.1 You can set thresholds for wlr and fkdr using the input box.
-1.2 Player who exceed these threshold will get a yellow highlight, warning the user that these players can be a threat for them.
+1.1 Set thresholds for WLR and FKDR using the input boxes.
+1.2 Players exceeding these thresholds will be highlighted in yellow, indicating a potential threat.
 
 2. Interval & Mode
 
-2.1 By using the interval button and mode dropdown.
-2.2 You can set the interval and mode of the stats you want to display in the table.
+2.1 Use the interval buttons and mode dropdown to configure the stats display interval and mode.
 
 3. Pin Application
 
-3.1 You can pin the application on top of other application by clicking on the pin application button.
-3.2 This you can control and see Pikachu's Tracker even while playing.
+3.1 Keep Pikachu's Tracker on top of other applications by clicking the "Pin Application" button.
+3.2 This allows you to monitor the tracker while playing.
 
 4. Console
 
-4.1 You can check console outputs (errors and logs) by clicking the console button.
+4.1 View console outputs, including errors and logs, by clicking the "Console" button.
 
 
 ------------------------------------------HIGHLIGHTED PLAYERS-----------------------------------------------
 
 1. Red highlight: Hidden from the API
 2. Blue highlight: Nicked
-3. Yellow highlight: Exceeds the wlr/fkdr threshold you've set
+3. Yellow highlight: Exceeds the WLR/FKDR threshold you've set
 
 
 -------------------------------------------CLIENT'S LOG FILE------------------------------------------------
 
-1. Some popular client's logs file's can be found here:
+Here are the default paths for some popular clients' log files:
 
-1.1 cmclient: C:\Users\************\.cmclient\logs
-1.2 silentclient: C:\Users\***********\AppData\Roaming\silentclient\logs
+1. CMClient: C:\Users\YourUsername\.cmclient\logs
+1. SilentClient: C:\Users\YourUsername\AppData\Roaming\silentclient\logs
 
