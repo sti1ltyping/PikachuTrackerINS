@@ -1,4 +1,66 @@
-To set your Client Path, please find the logs file for your client,
-and copy the whole path towards that logs folder and paste it in
-the "Client Path" section on the overlay and press "Ok".
-Don't forget to press the "Start" button on the overlay to start.
+-----------------------------------------------CREDITS----------------------------------------------------
+
+This Application is brought to you by: Pikachu's Stats dev team
+Official discord server: https://discord.gg/B3DQgwUgyT
+
+
+---------------------------------------PIKACHU'S TRACKER SUPPORT-------------------------------------------
+
+1. How to setup client logs
+
+1.1 Find your client's logs directory.
+1.2 Copy the exact path of this directory.
+1.3 Launch Pikachu's Tracker application and click on "Client logs"
+1.4 Paste the path of your client's logs directory in the popup window and click save.
+1.5 If the color of the button changes to magenta it means Pikachu's Tracker has successfully found the directory and is ready to go.
+1.6 If you are facing problem in finding client's logs file don't hesitat to contact us.
+
+2. How to start tracking players
+
+2.1 Setup client logs.
+2.2 Click on the start button.
+2.3 Open your chat box in game and press space followed by tab (Pressing it together won't work you need to press the space first followed by tab)
+2.4 To refresh the table press space followed by tab
+
+3. Settings
+
+3.1 Click on the settings button.
+3.2 There you can change the theme and transperancy
+
+
+-------------------------------------------------CONTROL----------------------------------------------------
+
+1. WLR & FKDR Thresholds
+
+1.1 You can set thresholds for wlr and fkdr using the input box.
+1.2 Player who exceed these threshold will get a yellow highlight, warning the user that these players can be a threat for them.
+
+2. Interval & Mode
+
+2.1 By using the interval button and mode dropdown.
+2.2 You can set the interval and mode of the stats you want to display in the table.
+
+3. Pin Application
+
+3.1 You can pin the application on top of other application by clicking on the pin application button.
+3.2 This you can control and see Pikachu's Tracker even while playing.
+
+4. Console
+
+4.1 You can check console outputs (errors and logs) by clicking the console button.
+
+
+------------------------------------------HIGHLIGHTED PLAYERS-----------------------------------------------
+
+1. Red highlight: Hidden from the API
+2. Blue highlight: Nicked
+3. Yellow highlight: Exceeds the wlr/fkdr threshold you've set
+
+
+-------------------------------------------CLIENT'S LOG FILE------------------------------------------------
+
+1. Some popular client's logs file's can be found here:
+
+1.1 cmclient: C:\Users\************\.cmclient\logs
+1.2 silentclient: C:\Users\***********\AppData\Roaming\silentclient\logs
+
